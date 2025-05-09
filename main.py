@@ -10,7 +10,6 @@ from style_theme import setup_theme
 from components.buttons import GridButtons
 
 
-
 if __name__ == "__main__":
 
     #Criação da aplicação
